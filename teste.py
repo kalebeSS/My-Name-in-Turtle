@@ -2,6 +2,7 @@ import turtle as t
 from random import random
 
 def turtle1():
+    # K
     t.speed(7)
     t.penup()
     t.goto(-300, 300)
@@ -18,7 +19,7 @@ def turtle1():
     t.left(90)
     t.forward(75)
 
-    #
+    # A
     t.penup()
     t.goto(-200, 300)
     t.pendown()
@@ -35,7 +36,7 @@ def turtle1():
     t.left(90)
     t.forward(50)
 
-    #
+    # L
     t.penup()
     t.goto(-100, 300)
     t.pendown()
@@ -44,7 +45,7 @@ def turtle1():
     t.left(90)
     t.forward(50)
 
-    #
+    # E
     t.penup()
     t.goto(0, 300)
     t.pendown()
@@ -60,7 +61,7 @@ def turtle1():
     t.pendown()
     t.forward(50)
 
-    #   
+    # B
     t.penup()
     t.goto(100, 300)
     t.pendown()
@@ -71,7 +72,7 @@ def turtle1():
     t.forward(100)
     t.right(90)
 
-    #
+    # E
     t.penup()
     t.goto(175, 300)
     t.pendown()
